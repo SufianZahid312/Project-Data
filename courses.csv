@@ -1,0 +1,40 @@
+course_code,course_name,credits,semester,department,max_students,prerequisites
+CS102,Object-Oriented Programming,3,2,Computer Science,50,CS101
+CS102L,OOP Lab,1,2,Computer Science,25,CS101
+CS103,Discrete Mathematics,3,2,Computer Science,50,
+CS104,Digital Logic Design,2,2,Computer Science,50,
+CS104L,Digital Logic Design Lab,1,2,Computer Science,25,CS104
+CS105,Ideology and Constituition of Pakistan,2,2,Computer Science,100,
+CS206,Islamic Studies,2,4,computer Science,100,
+CS202,Algorithms,3,4,Computer Science,50,CS201
+CS203,Operating Systems,3,4,Computer Science,50,CS104
+CS203L,Operating Systems Lab,1,4,Computer Science,25,CS104
+CS204,Database Systems,3,4,Computer Science,50,
+CS204L,Database Systems Lab,1,4,Computer Science,25,CS204
+CS304,Artificial Intelligence,3,6,Computer Science,50,CS202
+CS305,Professional Practices,2,6,Computer Science,50,
+CS404,Final Year Project - II,4,8,Computer Science,25,CS403
+CS405,Entrepreneurship,2,8,Computer Science,50,
+SE102,Object-Oriented Programming,3,2,Software Engineering,50,SE101
+SE102L,OOP Lab,1,2,Software Engineering,25,SE101
+SE103,Discrete Structures,3,2,Software Engineering,50,
+SE104,Ideology and Constitution of Pakistan,2,2,Software Engineering,100,
+SE206,Islamic Studies,2,4,Software Engineering,100,
+SE203,Human-Computer Interaction,2,4,Software Engineering,50,
+SE204,Software Requirements Engineering,3,4,Software Engineering,50,
+SE304,Agile Software Development,2,6,Software Engineering,50,
+SE305,Software Security,2,6,Software Engineering,50,SE301
+SE404,Final Year Project - II,4,8,Software Engineering,25,SE403
+SE405,Professional Ethics,2,8,Software Engineering,50,
+MBC103,Financial Accounting,3,2,Management Business Computing,50,
+MBC105,Business Mathematics,2,2,Management Business Computing,50,
+MBC104,Ideology and Constituition of Pakistan,2,2,Management Business Computing,100,
+MBC206,Islamic Studies,2,4,Management Business Computing,100,
+MBC203,Business Statistics,2,4,Management Business Computing,50,MBC105
+MBC204,Database Concepts,2,4,Management Business Computing,50,MBC101
+MBC204L,Database Lab,1,4,Management Business Computing,25,MBC101
+MBC304,Professional Development,2,6,Management Business Computing,50,
+MBC404,Final Year Project - II,4,8,Management Business Computing,25,MBC403
+MBC405,Entrepreneurship and Innovation,2,8,Management Business Computing,50,
+GEN102,Critical Thinking,2,2,General,100,
+GEN202,Environmental Science,2,4,General,100,
